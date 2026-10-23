@@ -1,0 +1,5 @@
+age,bmi,fasting_glucose,risk_score,trajectory_status
+30,22.5,95,73.75,Stable
+45,28.4,110,95.60,Stable
+55,31.2,145,115.80,Elevated
+62,34.8,168,131.80,Elevated
